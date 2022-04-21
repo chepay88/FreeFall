@@ -1,0 +1,606 @@
+fileFormatVersion: 2
+guid: 8d81a243c45f6fe4197040e0a2f8b59e
+ModelImporter:
+  serializedVersion: 20200
+  internalIDToNameTable:
+  - first:
+      74: 4100536219473103006
+    second: muni_rot|Cube.002|Cube.002|Cube.001Action
+  - first:
+      74: 2871502815307291863
+    second: muni_rot|Cube.002|Cube.002|Cube.002Action
+  - first:
+      74: -241497468924849130
+    second: muni_rot|Cube.002|Cube.002|Cube.004Action
+  - first:
+      74: 5344872508520536469
+    second: muni_rot|Cube.002|Cube.002|Gun_trigger
+  - first:
+      74: 3232108207371127397
+    second: muni_rot|Cube.002|Cube.002|muni_rot
+  - first:
+      74: -162671563939957545
+    second: muni_rot|Cube.002|Cube.002|muzzle fire
+  - first:
+      74: -7642531462459648345
+    second: muni_rot|Cube.002|Cube.002|pistol slide
+  - first:
+      74: 3236333847062668405
+    second: muni_rot|Cube.005|Cube.005|Cube.001Action
+  - first:
+      74: -3471624341212504952
+    second: muni_rot|Cube.005|Cube.005|Cube.002Action
+  - first:
+      74: -3979528517060579953
+    second: muni_rot|Cube.005|Cube.005|Cube.004Action
+  - first:
+      74: 8746661536871623421
+    second: muni_rot|Cube.005|Cube.005|Gun_trigger
+  - first:
+      74: 3457937671671502433
+    second: muni_rot|Cube.005|Cube.005|muni_rot
+  - first:
+      74: 7721406311086791997
+    second: muni_rot|Cube.005|Cube.005|muzzle fire
+  - first:
+      74: -860558778348008081
+    second: muni_rot|Cube.005|Cube.005|pistol slide
+  - first:
+      74: -624782234347956401
+    second: muni_rot|Gun_trigger|Gun_trigger|Cube.001Action
+  - first:
+      74: -6586266414287478412
+    second: muni_rot|Gun_trigger|Gun_trigger|Cube.002Action
+  - first:
+      74: 258633318558983670
+    second: muni_rot|Gun_trigger|Gun_trigger|Cube.004Action
+  - first:
+      74: -7710530283974244832
+    second: muni_rot|Gun_trigger|Gun_trigger|Gun_trigger
+  - first:
+      74: 2687267839954494300
+    second: muni_rot|Gun_trigger|Gun_trigger|muni_rot
+  - first:
+      74: -1088461415440010553
+    second: muni_rot|Gun_trigger|Gun_trigger|muzzle fire
+  - first:
+      74: -1152269555796817244
+    second: muni_rot|Gun_trigger|Gun_trigger|pistol slide
+  - first:
+      74: -2330604453422344859
+    second: muni_rot|Gun|Gun|Cube.001Action
+  - first:
+      74: -4905577878943116045
+    second: muni_rot|Gun|Gun|Cube.002Action
+  - first:
+      74: 1763585770074159317
+    second: muni_rot|Gun|Gun|Cube.004Action
+  - first:
+      74: -7254234871902751303
+    second: muni_rot|Gun|Gun|Gun_trigger
+  - first:
+      74: 1551270153928743576
+    second: muni_rot|Gun|Gun|muni_rot
+  - first:
+      74: -8252988824228442074
+    second: muni_rot|Gun|Gun|muzzle fire
+  - first:
+      74: -8080440553658058436
+    second: muni_rot|Gun|Gun|pistol slide
+  - first:
+      74: -3295840709680380166
+    second: muni_rot|muni_rot|muni_rot|Cube.001Action
+  - first:
+      74: -3822368892098207355
+    second: muni_rot|muni_rot|muni_rot|Cube.002Action
+  - first:
+      74: 7927789301771784820
+    second: muni_rot|muni_rot|muni_rot|Cube.004Action
+  - first:
+      74: 2086010585449652020
+    second: muni_rot|muni_rot|muni_rot|Gun_trigger
+  - first:
+      74: -1818145987541250767
+    second: muni_rot|muni_rot|muni_rot|muni_rot
+  - first:
+      74: 5246475567477632053
+    second: muni_rot|muni_rot|muni_rot|muzzle fire
+  - first:
+      74: 2517000321812562649
+    second: muni_rot|muni_rot|muni_rot|pistol slide
+  - first:
+      74: -4219866844923745547
+    second: muni_rot|muzzle fire|muzzle fire|Cube.001Action
+  - first:
+      74: 8389629959056277041
+    second: muni_rot|muzzle fire|muzzle fire|Cube.002Action
+  - first:
+      74: -7609263271516203206
+    second: muni_rot|muzzle fire|muzzle fire|Cube.004Action
+  - first:
+      74: -1865797978832788350
+    second: muni_rot|muzzle fire|muzzle fire|Gun_trigger
+  - first:
+      74: -3049729239582935858
+    second: muni_rot|muzzle fire|muzzle fire|muni_rot
+  - first:
+      74: 3182201231563034141
+    second: muni_rot|muzzle fire|muzzle fire|muzzle fire
+  - first:
+      74: -4758912043836954766
+    second: muni_rot|muzzle fire|muzzle fire|pistol slide
+  - first:
+      74: 4316585211096098750
+    second: Cube.005|Cube.002|Cube.002|Cube.001Action
+  - first:
+      74: -7010380906922962541
+    second: Cube.005|Cube.002|Cube.002|Cube.002Action
+  - first:
+      74: -455555016111359751
+    second: Cube.005|Cube.002|Cube.002|Cube.004Action
+  - first:
+      74: -1637175619288303220
+    second: Cube.005|Cube.002|Cube.002|Gun_trigger
+  - first:
+      74: 742501178735339528
+    second: Cube.005|Cube.002|Cube.002|muni_rot
+  - first:
+      74: 5663540552094324767
+    second: Cube.005|Cube.002|Cube.002|muzzle fire
+  - first:
+      74: 1915416471479938445
+    second: Cube.005|Cube.002|Cube.002|pistol slide
+  - first:
+      74: -3837830089802668784
+    second: Cube.005|Cube.005|Cube.005|Cube.001Action
+  - first:
+      74: -6454046044997193279
+    second: Cube.005|Cube.005|Cube.005|Cube.002Action
+  - first:
+      74: 1462140803996932758
+    second: Cube.005|Cube.005|Cube.005|Cube.004Action
+  - first:
+      74: -8152988902194164750
+    second: Cube.005|Cube.005|Cube.005|Gun_trigger
+  - first:
+      74: 5277852882935850287
+    second: Cube.005|Cube.005|Cube.005|muni_rot
+  - first:
+      74: 757421599115163277
+    second: Cube.005|Cube.005|Cube.005|muzzle fire
+  - first:
+      74: 5706761347865607200
+    second: Cube.005|Cube.005|Cube.005|pistol slide
+  - first:
+      74: 5200222381001597333
+    second: Cube.005|Gun_trigger|Gun_trigger|Cube.001Action
+  - first:
+      74: 1158586687090540721
+    second: Cube.005|Gun_trigger|Gun_trigger|Cube.002Action
+  - first:
+      74: -5350270894832013199
+    second: Cube.005|Gun_trigger|Gun_trigger|Cube.004Action
+  - first:
+      74: 8683350055666646374
+    second: Cube.005|Gun_trigger|Gun_trigger|Gun_trigger
+  - first:
+      74: 2764485175021467672
+    second: Cube.005|Gun_trigger|Gun_trigger|muni_rot
+  - first:
+      74: -6260731443156264474
+    second: Cube.005|Gun_trigger|Gun_trigger|muzzle fire
+  - first:
+      74: 4484668285055112724
+    second: Cube.005|Gun_trigger|Gun_trigger|pistol slide
+  - first:
+      74: 8004176536029337466
+    second: Cube.005|Gun|Gun|Cube.001Action
+  - first:
+      74: 6493935850905343775
+    second: Cube.005|Gun|Gun|Cube.002Action
+  - first:
+      74: -5318768587373110849
+    second: Cube.005|Gun|Gun|Cube.004Action
+  - first:
+      74: -4522354281211653147
+    second: Cube.005|Gun|Gun|Gun_trigger
+  - first:
+      74: 3241427803046648571
+    second: Cube.005|Gun|Gun|muni_rot
+  - first:
+      74: 2960490014791592567
+    second: Cube.005|Gun|Gun|muzzle fire
+  - first:
+      74: 91517455757845229
+    second: Cube.005|Gun|Gun|pistol slide
+  - first:
+      74: 5394444112791250419
+    second: Cube.005|muni_rot|muni_rot|Cube.001Action
+  - first:
+      74: -6356541374557949598
+    second: Cube.005|muni_rot|muni_rot|Cube.002Action
+  - first:
+      74: -7612639609029966238
+    second: Cube.005|muni_rot|muni_rot|Cube.004Action
+  - first:
+      74: -3966280395368113426
+    second: Cube.005|muni_rot|muni_rot|Gun_trigger
+  - first:
+      74: 363872474495257952
+    second: Cube.005|muni_rot|muni_rot|muni_rot
+  - first:
+      74: 4031666288926446334
+    second: Cube.005|muni_rot|muni_rot|muzzle fire
+  - first:
+      74: -3549646938364253948
+    second: Cube.005|muni_rot|muni_rot|pistol slide
+  - first:
+      74: -7410636401041214085
+    second: Cube.005|muzzle fire|muzzle fire|Cube.001Action
+  - first:
+      74: 6252882365439924347
+    second: Cube.005|muzzle fire|muzzle fire|Cube.002Action
+  - first:
+      74: 1427454433086788650
+    second: Cube.005|muzzle fire|muzzle fire|Cube.004Action
+  - first:
+      74: -790078860416978404
+    second: Cube.005|muzzle fire|muzzle fire|Gun_trigger
+  - first:
+      74: -1553031940716850964
+    second: Cube.005|muzzle fire|muzzle fire|muni_rot
+  - first:
+      74: -2526249186007516919
+    second: Cube.005|muzzle fire|muzzle fire|muzzle fire
+  - first:
+      74: 2526531654850473642
+    second: Cube.005|muzzle fire|muzzle fire|pistol slide
+  - first:
+      74: 9191550075505221918
+    second: Gun_trigger|Cube.002|Cube.002|Cube.001Action
+  - first:
+      74: 5096586637598551434
+    second: Gun_trigger|Cube.002|Cube.002|Cube.002Action
+  - first:
+      74: -3976323565813147862
+    second: Gun_trigger|Cube.002|Cube.002|Cube.004Action
+  - first:
+      74: -5521593495146294118
+    second: Gun_trigger|Cube.002|Cube.002|Gun_trigger
+  - first:
+      74: -4576765329253979336
+    second: Gun_trigger|Cube.002|Cube.002|muni_rot
+  - first:
+      74: 8573113589676079211
+    second: Gun_trigger|Cube.002|Cube.002|muzzle fire
+  - first:
+      74: -7352948644578785737
+    second: Gun_trigger|Cube.002|Cube.002|pistol slide
+  - first:
+      74: -7349953781271688918
+    second: Gun_trigger|Cube.005|Cube.005|Cube.001Action
+  - first:
+      74: -1754889575979329094
+    second: Gun_trigger|Cube.005|Cube.005|Cube.002Action
+  - first:
+      74: -4429516307545421699
+    second: Gun_trigger|Cube.005|Cube.005|Cube.004Action
+  - first:
+      74: 3002717460736784771
+    second: Gun_trigger|Cube.005|Cube.005|Gun_trigger
+  - first:
+      74: 1847075809824532722
+    second: Gun_trigger|Cube.005|Cube.005|muni_rot
+  - first:
+      74: 475808472160313987
+    second: Gun_trigger|Cube.005|Cube.005|muzzle fire
+  - first:
+      74: -170605870347018326
+    second: Gun_trigger|Cube.005|Cube.005|pistol slide
+  - first:
+      74: -5396941479515355042
+    second: Gun_trigger|Gun_trigger|Gun_trigger|Cube.001Action
+  - first:
+      74: -6457325472103386606
+    second: Gun_trigger|Gun_trigger|Gun_trigger|Cube.002Action
+  - first:
+      74: 3984583681668992655
+    second: Gun_trigger|Gun_trigger|Gun_trigger|Cube.004Action
+  - first:
+      74: -6060438214504279811
+    second: Gun_trigger|Gun_trigger|Gun_trigger|Gun_trigger
+  - first:
+      74: 7013161585216769587
+    second: Gun_trigger|Gun_trigger|Gun_trigger|muni_rot
+  - first:
+      74: 7338474598142158052
+    second: Gun_trigger|Gun_trigger|Gun_trigger|muzzle fire
+  - first:
+      74: -5390456138960886212
+    second: Gun_trigger|Gun_trigger|Gun_trigger|pistol slide
+  - first:
+      74: 4657608673768413693
+    second: Gun_trigger|Gun|Gun|Cube.001Action
+  - first:
+      74: 4335021197190649212
+    second: Gun_trigger|Gun|Gun|Cube.002Action
+  - first:
+      74: 157910029996280594
+    second: Gun_trigger|Gun|Gun|Cube.004Action
+  - first:
+      74: 283267684749969490
+    second: Gun_trigger|Gun|Gun|Gun_trigger
+  - first:
+      74: -8317576494051086904
+    second: Gun_trigger|Gun|Gun|muni_rot
+  - first:
+      74: 5247944820834059295
+    second: Gun_trigger|Gun|Gun|muzzle fire
+  - first:
+      74: 6963562082779722194
+    second: Gun_trigger|Gun|Gun|pistol slide
+  - first:
+      74: -2988672087476022495
+    second: Gun_trigger|muni_rot|muni_rot|Cube.001Action
+  - first:
+      74: -4290022690369549931
+    second: Gun_trigger|muni_rot|muni_rot|Cube.002Action
+  - first:
+      74: 7269249377265279420
+    second: Gun_trigger|muni_rot|muni_rot|Cube.004Action
+  - first:
+      74: 4830297247736770091
+    second: Gun_trigger|muni_rot|muni_rot|Gun_trigger
+  - first:
+      74: -8222454327900981380
+    second: Gun_trigger|muni_rot|muni_rot|muni_rot
+  - first:
+      74: -1602627405075459542
+    second: Gun_trigger|muni_rot|muni_rot|muzzle fire
+  - first:
+      74: -5458902459309718025
+    second: Gun_trigger|muni_rot|muni_rot|pistol slide
+  - first:
+      74: 2090145879113451178
+    second: Gun_trigger|muzzle fire|muzzle fire|Cube.001Action
+  - first:
+      74: 7406859144298448274
+    second: Gun_trigger|muzzle fire|muzzle fire|Cube.002Action
+  - first:
+      74: 4370372836621957895
+    second: Gun_trigger|muzzle fire|muzzle fire|Cube.004Action
+  - first:
+      74: 7361680166413416058
+    second: Gun_trigger|muzzle fire|muzzle fire|Gun_trigger
+  - first:
+      74: -5446613507160213990
+    second: Gun_trigger|muzzle fire|muzzle fire|muni_rot
+  - first:
+      74: 4298656573862765639
+    second: Gun_trigger|muzzle fire|muzzle fire|muzzle fire
+  - first:
+      74: -6160903511883733154
+    second: Gun_trigger|muzzle fire|muzzle fire|pistol slide
+  - first:
+      74: 2994350863914488149
+    second: Gun|Cube.002|Cube.002|Cube.001Action
+  - first:
+      74: 1494083890406896861
+    second: Gun|Cube.002|Cube.002|Cube.002Action
+  - first:
+      74: 3714190905213342912
+    second: Gun|Cube.002|Cube.002|Cube.004Action
+  - first:
+      74: -203316194656687128
+    second: Gun|Cube.002|Cube.002|Gun_trigger
+  - first:
+      74: 8134869396204263103
+    second: Gun|Cube.002|Cube.002|muni_rot
+  - first:
+      74: 5296428265435650488
+    second: Gun|Cube.002|Cube.002|muzzle fire
+  - first:
+      74: -9105871578392192069
+    second: Gun|Cube.002|Cube.002|pistol slide
+  - first:
+      74: -628483382464044255
+    second: Gun|Cube.005|Cube.005|Cube.001Action
+  - first:
+      74: 2834600331493321421
+    second: Gun|Cube.005|Cube.005|Cube.002Action
+  - first:
+      74: -2740427545906297138
+    second: Gun|Cube.005|Cube.005|Cube.004Action
+  - first:
+      74: -326628863875796203
+    second: Gun|Cube.005|Cube.005|Gun_trigger
+  - first:
+      74: 291199183334398031
+    second: Gun|Cube.005|Cube.005|muni_rot
+  - first:
+      74: -5113436570388420204
+    second: Gun|Cube.005|Cube.005|muzzle fire
+  - first:
+      74: -3776771083149521593
+    second: Gun|Cube.005|Cube.005|pistol slide
+  - first:
+      74: -2053589377663627156
+    second: Gun|Gun_trigger|Gun_trigger|Cube.001Action
+  - first:
+      74: -7076965948211352029
+    second: Gun|Gun_trigger|Gun_trigger|Cube.002Action
+  - first:
+      74: -9117848317990729374
+    second: Gun|Gun_trigger|Gun_trigger|Cube.004Action
+  - first:
+      74: -3803836333551251361
+    second: Gun|Gun_trigger|Gun_trigger|Gun_trigger
+  - first:
+      74: 2237269267860552479
+    second: Gun|Gun_trigger|Gun_trigger|muni_rot
+  - first:
+      74: -835646871976196090
+    second: Gun|Gun_trigger|Gun_trigger|muzzle fire
+  - first:
+      74: 8506292626552567925
+    second: Gun|Gun_trigger|Gun_trigger|pistol slide
+  - first:
+      74: -138130672508197688
+    second: Gun|Gun|Gun|Cube.001Action
+  - first:
+      74: 6499079075327800296
+    second: Gun|Gun|Gun|Cube.002Action
+  - first:
+      74: 7999115581173202781
+    second: Gun|Gun|Gun|Cube.004Action
+  - first:
+      74: 3198903110533408078
+    second: Gun|Gun|Gun|Gun_trigger
+  - first:
+      74: -5206460295521258004
+    second: Gun|Gun|Gun|muni_rot
+  - first:
+      74: -7398609611104944198
+    second: Gun|Gun|Gun|muzzle fire
+  - first:
+      74: -6453306924131660786
+    second: Gun|Gun|Gun|pistol slide
+  - first:
+      74: 1959532117609222024
+    second: Gun|muni_rot|muni_rot|Cube.001Action
+  - first:
+      74: 3134829510630169384
+    second: Gun|muni_rot|muni_rot|Cube.002Action
+  - first:
+      74: -2685168960711592355
+    second: Gun|muni_rot|muni_rot|Cube.004Action
+  - first:
+      74: 1029730164367413893
+    second: Gun|muni_rot|muni_rot|Gun_trigger
+  - first:
+      74: 3772033208350658488
+    second: Gun|muni_rot|muni_rot|muni_rot
+  - first:
+      74: -4901906805557834523
+    second: Gun|muni_rot|muni_rot|muzzle fire
+  - first:
+      74: -4190687142575232254
+    second: Gun|muni_rot|muni_rot|pistol slide
+  - first:
+      74: 7215342567856237861
+    second: Gun|muzzle fire|muzzle fire|Cube.001Action
+  - first:
+      74: -5243966937161653311
+    second: Gun|muzzle fire|muzzle fire|Cube.002Action
+  - first:
+      74: -2011436646606473303
+    second: Gun|muzzle fire|muzzle fire|Cube.004Action
+  - first:
+      74: 2635397660137957547
+    second: Gun|muzzle fire|muzzle fire|Gun_trigger
+  - first:
+      74: -4694501236304834675
+    second: Gun|muzzle fire|muzzle fire|muni_rot
+  - first:
+      74: -3983559692951802297
+    second: Gun|muzzle fire|muzzle fire|muzzle fire
+  - first:
+      74: -9026182055730007740
+    second: Gun|muzzle fire|muzzle fire|pistol slide
+  externalObjects: {}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

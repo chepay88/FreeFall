@@ -1,4 +1,4 @@
 repository "FreeFall@Alex_Chepai@cloud"
   path "/"
-    br "/main"
-    co "/main"
+    smartbranch "/main"  
+     
